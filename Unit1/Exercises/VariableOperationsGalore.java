@@ -1,4 +1,4 @@
-public class OperationsGalore {
+public class VariableOperationsGalore {
         public static void main(String[] args) {
                 // Create variables for the following expression and use them to solve and print
                 // the answer
