@@ -1,4 +1,4 @@
-public class ArithmeticOperations {
+public class ArithmeticOperators {
     public static void main(String[] args) {
         // Example numbers
         double num1 = 12.5;

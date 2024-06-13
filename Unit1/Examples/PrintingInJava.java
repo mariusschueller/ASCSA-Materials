@@ -14,7 +14,7 @@ public class PrintingInJava {
         // Printing a message with special characters
         System.out.println("Hello, \"Java\"!");
 
-        // Printing multiple lines
+        // Printing multiple  lines
         System.out.println("This is line one.\nThis is line two.");
     }
 }
