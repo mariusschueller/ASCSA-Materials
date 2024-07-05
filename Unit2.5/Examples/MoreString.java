@@ -1,4 +1,4 @@
-public class MoreScanner {
+public class MoreString {
     public static void main(String[] args) {
         String strLiteral = "karel"; // String Literal
         String strConstr = new String("karel"); // String constructor

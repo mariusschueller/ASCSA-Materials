@@ -24,9 +24,6 @@ public class MoreScanner {
         int nextInt = scanner.nextInt();
         System.out.println("You entered the integer: " + nextInt);
 
-        // Close the scanner
-        scanner.close();
-
         //Another Example
         AnotherExample();
     }
