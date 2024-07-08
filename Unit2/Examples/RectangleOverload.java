@@ -1,4 +1,4 @@
-public class Rectangle
+public class RectangleOverload
 {
     private int width;
     private int height;
