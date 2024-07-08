@@ -4,7 +4,7 @@ public class Hours
 {
     public static void main(String[] args)
     {
-        Scanner input = new Scanner(System.in);
+        // implement a scanner here
 
         // In military time, the hours go from 0 to 24
         // Ask the user for an hour
