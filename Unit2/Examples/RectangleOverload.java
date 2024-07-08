@@ -2,12 +2,12 @@ public class RectangleOverload
 {
     private int width;
     private int height;
-    public Rectangle(int rectWidth, int rectHeight)
+    public RectangleOverload(int rectWidth, int rectHeight)
     {
         width = rectWidth;
         height = rectHeight;
     }
-    public Rectangle(int sidelength)
+    public RectangleOverload(int sidelength)
     {
         width = sidelength;
         height = sidelength;

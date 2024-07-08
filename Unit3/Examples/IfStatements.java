@@ -4,6 +4,8 @@ class IfStatements {
 
         boolean sunny = true;
 
+        int temp = 71;
+
         if (temp > 70 && sunny == true) {
             System.out.println("Time to get outside!");
         }
