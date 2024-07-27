@@ -1,3 +1,5 @@
+// Related example script: NestedLoops.java
+
 public class InvertedTriangle
 {
     public static void main(String[] args)

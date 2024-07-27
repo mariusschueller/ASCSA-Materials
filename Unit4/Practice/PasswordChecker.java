@@ -14,6 +14,8 @@
 // How to approach this:
 // Break the problem into smaller problems. What are simpler versions of this problem?
 
+// Related example script: LoopsAndStrings.java
+
 // Have fun!
 
 
