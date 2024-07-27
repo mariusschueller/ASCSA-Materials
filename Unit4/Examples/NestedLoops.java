@@ -16,7 +16,7 @@ public class NestedLoops {
                 System.out.print(number*line +" ");
                 number++;
             }
-            System.out.println()
+            System.out.println();
             line++;
         }
 

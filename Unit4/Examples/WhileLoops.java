@@ -27,9 +27,9 @@ public class WhileLoops{
 
 
         // Another Example
-        int i = 0;
+        int j = 0;
         System.out.println("Initiating countup:");
-        while (i <= 5) {
+        while (j <= 5) {
             System.out.println(i + "...");
             i++;
         }

@@ -12,6 +12,7 @@ class LoopsAndStrings{
         // how is the loop changing?
         // what is the iterator (i) being used for?
         // if when all else fails, start with what you know
+        String string = "Hi ThErE";
         int counter = 0;
         for(int i = 0; i < string.length(); i++) {
             String letter = string.substring(i, i+1);
@@ -19,11 +20,12 @@ class LoopsAndStrings{
                 counter++;
             }
         }
-        print(counter)
+        System.out.print(counter);
 
 
 
         // Another Example
+        String str = "hello world";
         for (int i = 0; i < str.length(); i++)
         {
             char c = str.charAt(i);
@@ -34,7 +36,7 @@ class LoopsAndStrings{
                 str = front + "*" + back;
             }
         }
-        System.out.println(originalString);
+        System.out.println(str);
 
     }
 }
